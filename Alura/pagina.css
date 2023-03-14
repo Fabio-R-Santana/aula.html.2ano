@@ -40,6 +40,14 @@ ul{
   width: 20%;
   margin-right: 15%
 }
+.caixa{
+  display: inline-block;
+}
 .beneficiosimg{
   width: 30%;
+}
+.input-padrao{
+  vertical-align: top;
+  margin-right: 1%
+
 }
